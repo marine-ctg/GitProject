@@ -192,9 +192,6 @@ struct WatchlistView: View {
             Image(systemName: logo)
                 .resizable()
                 .frame(width: 30, height: 30)
-            Image(systemName: logo)
-                .resizable()
-                .frame(width: 30, height: 30)
 
             VStack {
                 HStack {
